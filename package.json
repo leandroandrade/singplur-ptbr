@@ -1,6 +1,6 @@
 {
   "name": "singplur-ptbr",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Biblioteca JavaScript para pluralização e singularização de palavras em português brasileiro.",
   "main": "index.js",
   "scripts": {
