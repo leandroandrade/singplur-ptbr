@@ -430,3 +430,5 @@ class SingPlurPtbr {
 }
 
 module.exports = SingPlurPtbr
+module.exports.default = SingPlurPtbr
+module.exports.SingPlurPtbr = SingPlurPtbr
